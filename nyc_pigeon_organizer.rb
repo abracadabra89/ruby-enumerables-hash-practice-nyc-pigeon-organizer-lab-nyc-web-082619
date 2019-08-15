@@ -8,4 +8,3 @@ end
 
 
 
-#pigeon names are the keys, with each name pointing to a hash of their attributes.
